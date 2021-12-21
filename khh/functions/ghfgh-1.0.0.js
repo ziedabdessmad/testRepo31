@@ -1,4 +1,4 @@
 // example javascript input function
 (request)=>{
-     return "hello";
+     return "hello2";
 }
